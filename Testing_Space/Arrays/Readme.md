@@ -1,5 +1,5 @@
 # Introduction
-Arrays Testing Aplication
+Arrays Testing Application
 
 # Subtitle
-A Aplication made for testing Arrays command lines
+A Application made for testing Arrays command lines
