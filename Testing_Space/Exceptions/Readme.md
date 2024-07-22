@@ -1,5 +1,5 @@
 # Introduction
-Exception train aplication
+Exception train application
 
 # Subtitle
-Just a Exception train aplication for JAVA
+Just a Exception train application for JAVA
