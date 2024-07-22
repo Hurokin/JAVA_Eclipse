@@ -2,4 +2,4 @@
 Testing Space for Java
 
 # Subtitle
-Testing Space for Java based codes and aplications, please ignore everythings
+Testing Space for Java based codes and aplications, please ignore the errors here
