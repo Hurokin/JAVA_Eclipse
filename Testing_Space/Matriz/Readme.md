@@ -1,5 +1,5 @@
 # Introduction
-Matrix testing Aplication
+Matrix testing Application
 
 # Subtitle
-A aplication made for testing Matrix in JAVA language
+A application made for testing Matrix in JAVA language
